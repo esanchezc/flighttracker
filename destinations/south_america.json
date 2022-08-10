@@ -1,0 +1,60 @@
+{
+  "departure_cities": [
+    "MTY",
+    "IAH",
+    "MFE",
+    "REX"
+  ],
+  "destinations": {
+    "Punta Cana": {
+      "city": "Punta Cana",
+      "iataCode": "PUJ",
+      "lowestPrice": 304
+    },
+    "Guatemala": {
+      "city": "Guatemala",
+      "iataCode": "GUA",
+      "lowestPrice": 222
+    },
+    "Panama": {
+      "city": "Panama",
+      "iataCode": "PTY",
+      "lowestPrice": 294
+    },
+    "Bogota": {
+      "city": "Bogota",
+      "iataCode": "BOG",
+      "lowestPrice": 283
+    },
+    "Lima": {
+      "city": "Lima",
+      "iataCode": "LIM",
+      "lowestPrice": 304
+    },
+    "Costa Rica": {
+      "city": "Costa Rica",
+      "iataCode": "",
+      "lowestPrice": 286
+    },
+    "Cartagena": {
+      "city": "Cartagena",
+      "iataCode": "CTG",
+      "lowestPrice": 297
+    },
+    "Buenos Aires": {
+      "city": "Buenos Aires",
+      "iataCode": "BUE",
+      "lowestPrice": 500
+    },
+    "Santiago": {
+      "city": "Santiago",
+      "iataCode": "SCL",
+      "lowestPrice": 500
+    },
+    "Montevideo": {
+      "city": "Montevideo",
+      "iataCode": "MVD",
+      "lowestPrice": 500
+    }
+  }
+}

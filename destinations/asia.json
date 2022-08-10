@@ -1,0 +1,62 @@
+{
+  "departure_cities": [
+    "MEX",
+    "MTY",
+    "CUN",
+    "SAT",
+    "MFE",
+    "IAH"
+  ],
+  "destinations": {
+    "Bangkok": {
+      "city": "Bangkok",
+      "iataCode": "BKK",
+      "lowestPrice": 1026
+    },
+    "Tokyo": {
+      "city": "Tokyo",
+      "iataCode": "TYO",
+      "lowestPrice": 950
+    },
+    "Seoul": {
+      "city": "Seoul",
+      "iataCode": "SEL",
+      "lowestPrice": 1127
+    },
+    "Singapore": {
+      "city": "Singapore",
+      "iataCode": "SIN",
+      "lowestPrice": 1142
+    },
+    "Ho Chi Minh City": {
+      "city": "Ho Chi Minh City",
+      "iataCode": "SGN",
+      "lowestPrice": 1051
+    },
+    "Kuala Lumpur": {
+      "city": "Kuala Lumpur",
+      "iataCode": "KUL",
+      "lowestPrice": 1247
+    },
+    "Hong Kong": {
+      "city": "Hong Kong",
+      "iataCode": "HKG",
+      "lowestPrice": 1155
+    },
+    "Istanbul": {
+      "city": "Istanbul",
+      "iataCode": "IST",
+      "lowestPrice": 892
+    },
+    "Manila": {
+      "city": "Manila",
+      "iataCode": "MNL",
+      "lowestPrice": 1007
+    },
+    "Bali": {
+      "city": "Bali",
+      "iataCode": "DPS",
+      "lowestPrice": 1389
+    }
+  }
+}
