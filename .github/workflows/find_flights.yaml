@@ -1,0 +1,20 @@
+name: find-flights
+
+on: [workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: execute script
+        run:
+          python main.py europe
+        env:
+          KIWI_API_KEY: {{ kiwi_api_key }}
