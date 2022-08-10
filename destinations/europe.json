@@ -11,52 +11,52 @@
     "Lisbon": {
       "city": "Lisbon",
       "iataCode": "LIS",
-      "lowestPrice": 723
+      "lowestPrice": 1000
     },
     "Berlin": {
       "city": "Berlin",
       "iataCode": "BER",
-      "lowestPrice": 617
+      "lowestPrice": 1000
     },
     "Rome": {
       "city": "Rome",
       "iataCode": "ROM",
-      "lowestPrice": 661
+      "lowestPrice": 1000
     },
     "London": {
       "city": "London",
       "iataCode": "LON",
-      "lowestPrice": 667
+      "lowestPrice": 1000
     },
     "Madrid": {
       "city": "Madrid",
       "iataCode": "MAD",
-      "lowestPrice": 624
+      "lowestPrice": 1000
     },
     "Paris": {
       "city": "Paris",
       "iataCode": "PAR",
-      "lowestPrice": 650
+      "lowestPrice": 1000
     },
     "Amsterdam": {
       "city": "Amsterdam",
       "iataCode": "AMS",
-      "lowestPrice": 797
+      "lowestPrice": 1000
     },
     "Brussels": {
       "city": "Brussels",
       "iataCode": "BRU",
-      "lowestPrice": 636
+      "lowestPrice": 1000
     },
     "Frankfurt": {
       "city": "Frankfurt",
       "iataCode": "FRA",
-      "lowestPrice": 811
+      "lowestPrice": 1000
     },
     "Munich": {
       "city": "Munich",
       "iataCode": "MUC",
-      "lowestPrice": 725
+      "lowestPrice": 1000
     }
   }
 }
