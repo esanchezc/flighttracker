@@ -17,4 +17,4 @@ jobs:
         run:
           python main.py europe
         env:
-          KIWI_API_KEY: {{ kiwi_api_key }}
+          KIWI_API_KEY: {{ secrets.KIWI_API_KEY }}
