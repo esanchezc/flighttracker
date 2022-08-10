@@ -1,1 +1,62 @@
-{"departure_cities": ["MEX", "MTY", "CUN", "GDL", "MFE", "IAH"], "destinations": {"Lisbon": {"city": "Lisbon", "iataCode": "LIS", "lowestPrice": 723}, "Berlin": {"city": "Berlin", "iataCode": "BER", "lowestPrice": 629}, "Rome": {"city": "Rome", "iataCode": "ROM", "lowestPrice": 661}, "London": {"city": "London", "iataCode": "LON", "lowestPrice": 705}, "Madrid": {"city": "Madrid", "iataCode": "MAD", "lowestPrice": 693}, "Paris": {"city": "Paris", "iataCode": "PAR", "lowestPrice": 650}, "Amsterdam": {"city": "Amsterdam", "iataCode": "AMS", "lowestPrice": 801}, "Brussels": {"city": "Brussels", "iataCode": "BRU", "lowestPrice": 636}, "Frankfurt": {"city": "Frankfurt", "iataCode": "FRA", "lowestPrice": 811}, "Munich": {"city": "Munich", "iataCode": "MUC", "lowestPrice": 725}}}
+{
+  "departure_cities": [
+    "MEX",
+    "MTY",
+    "CUN",
+    "SAT",
+    "MFE",
+    "IAH"
+  ],
+  "destinations": {
+    "Lisbon": {
+      "city": "Lisbon",
+      "iataCode": "LIS",
+      "lowestPrice": 723
+    },
+    "Berlin": {
+      "city": "Berlin",
+      "iataCode": "BER",
+      "lowestPrice": 617
+    },
+    "Rome": {
+      "city": "Rome",
+      "iataCode": "ROM",
+      "lowestPrice": 661
+    },
+    "London": {
+      "city": "London",
+      "iataCode": "LON",
+      "lowestPrice": 667
+    },
+    "Madrid": {
+      "city": "Madrid",
+      "iataCode": "MAD",
+      "lowestPrice": 624
+    },
+    "Paris": {
+      "city": "Paris",
+      "iataCode": "PAR",
+      "lowestPrice": 650
+    },
+    "Amsterdam": {
+      "city": "Amsterdam",
+      "iataCode": "AMS",
+      "lowestPrice": 797
+    },
+    "Brussels": {
+      "city": "Brussels",
+      "iataCode": "BRU",
+      "lowestPrice": 636
+    },
+    "Frankfurt": {
+      "city": "Frankfurt",
+      "iataCode": "FRA",
+      "lowestPrice": 811
+    },
+    "Munich": {
+      "city": "Munich",
+      "iataCode": "MUC",
+      "lowestPrice": 725
+    }
+  }
+}

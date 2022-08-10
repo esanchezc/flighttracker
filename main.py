@@ -5,14 +5,11 @@ from data_manager import DataManager
 from flight_search import FlightSearch
 from notification_manager import NotificationManager
 
-# DEPARTURE_CITY_CODES = ["MTY", "IAH", "MFE", "REX"]
-# DEPARTURE_CITY_CODES = ["MEX", "MTY", "CUN", "GDL", "MFE", "IAH"]
-
 dm = DataManager()
 fs = FlightSearch()
 nm = NotificationManager()
 
-continent = "south_america"
+continent = "asia"
 if len(sys.argv) > 1:
     continent = str(sys.argv[1]).lower()
 
