@@ -6,10 +6,13 @@ from requests import ReadTimeout
 
 from flight_data import FlightData
 import pyshorteners
+from dotenv import load_dotenv
+import os
 
 class FlightSearch:
     def __init__(self):
-        self.API_KEY = "etgSr0I1UIUmwbt59456ecS4hCEI1NJW"
+        load_dotenv()
+        self.API_KEY = os.getenv("KIWI_API_KEY")
         self.BASE_URL = "https://tequila-api.kiwi.com"
         self.QUERY_LOCATIONS = "/locations/query"
         self.SEARCH = "/v2/search"
